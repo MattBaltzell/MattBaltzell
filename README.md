@@ -6,7 +6,7 @@ Currently enrolled in a Springboard's Software Engineering Bootcamp (Oct 2022 co
 
 - 💻 Seeking software developer opportunity
 
-- 👨‍💻 All of my projects are available at [https://www.matthew-baltzell.com](https://www.matthew-baltzell.com)
+- 👨‍💻 My portfolio is available at [https://www.matthew-baltzell.com](https://www.matthew-baltzell.com)
 
 - 📫 How to reach me **matthew.j.baltzell@gmail.com**
 
