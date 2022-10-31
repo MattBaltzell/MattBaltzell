@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Matt Baltzell</h1>
 <h3 align="left">An aspiring software developer with a graphic design background.<br>
-Currently enrolled in a Springboard's Software Engineering Bootcamp (Oct 2022 completion)</h3>
+Currently enrolled in a Springboard's Software Engineering Bootcamp</h3>
 
 - 🎓 I’m currently learning **JavaScript, React, Node.js, Express, Python, Flask, Jasmine, Jest**
 
