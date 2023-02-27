@@ -14,7 +14,7 @@ Currently enrolled in a Springboard's Software Engineering Bootcamp</h3>
 
 - ⚡ Fun fact **I started skateboarding at the age of 31 to keep up with my kids. It has been fun... and painful.**
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -28,6 +28,12 @@ Currently enrolled in a Springboard's Software Engineering Bootcamp</h3>
   <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/> 
   </a> 
+  <a href="https://python.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="express" width="40" height="40"/> 
+  </a> 
+  <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="express" width="40" height="40"/> 
+  </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a>
@@ -37,6 +43,11 @@ Currently enrolled in a Springboard's Software Engineering Bootcamp</h3>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a>
+</p>
+
+
+<h3 align="left">Design Tools:</h3>
+<p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a> 
@@ -50,6 +61,12 @@ Currently enrolled in a Springboard's Software Engineering Bootcamp</h3>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
   </a> 
 </p>
+
+
+
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
