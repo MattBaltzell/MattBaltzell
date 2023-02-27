@@ -12,7 +12,7 @@ Currently enrolled in a Springboard's Software Engineering Bootcamp</h3>
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/matthewbaltzell/](https://www.linkedin.com/in/matthewbaltzell/)
 
-- ⚡ Fun fact **I started skateboarding at the age of 31 to keep up with my kids. It has been fun... and painful.**
+- ⚒ Fun fact **I am a hobbyist blacksmith and love forming tools and art with hot metal and a hammer.**
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
